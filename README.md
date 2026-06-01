@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Johnny 👋
 
-<!--
-**johnny62-star/johnny62-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable web applications, clean architecture, and high-quality user experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+- React
+- TypeScript
+- Next.js
+- TailwindCSS
+
+Backend:
+- Node.js
+- PHP
+- Laravel
+- Express
+
+Database:
+- MySQL
+- PostgreSQL
+- MongoDB
+
+Tools:
+- Git
+- Docker
+- VS Code
+- Linux
+
+## Current Focus
+- Building scalable full-stack applications
+- Improving system design skills
+- Writing cleaner TypeScript architecture
+
+## Featured Projects
+
+### Project Name
+Short professional description.
+
+Tech:
+React, TypeScript, Node.js
+
+## Contact
+
+- LinkedIn: your-link
+- Portfolio: your-site
+- Email: your-email

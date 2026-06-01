@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Johnny January
+# 👋 Hi, I'm Benri
 
 ### Full Stack Developer | React • TypeScript • Node.js • Laravel
 

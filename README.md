@@ -32,16 +32,6 @@ Tools:
 - Improving system design skills
 - Writing cleaner TypeScript architecture
 
-## Featured Projects
-
-### Project Name
-Short professional description.
-
-Tech:
-React, TypeScript, Node.js
-
 ## Contact
-
-- LinkedIn: your-link
-- Portfolio: your-site
-- Email: your-email
+- Telegram: @PhantomBushi
+- Email: johnnyjanuary62@gmail.com

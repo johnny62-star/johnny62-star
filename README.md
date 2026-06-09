@@ -30,6 +30,7 @@ I build scalable, high-performance web applications with a strong focus on clean
 ### Backend Development
 
 * Node.js
+* NestJs
 * Express.js
 * PHP
 * Laravel

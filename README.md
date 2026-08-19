@@ -78,7 +78,7 @@ I build scalable, high-performance web applications with a strong focus on clean
 
 📨 Email: [johnnyjanuary62@gmail.com](mailto:johnnyjanuary62@gmail.com)
 
-💬 Telegram: @PhantomBushi
+💬 Telegram: https://t.me/PhantomBushi
 
 ---
 

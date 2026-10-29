@@ -72,12 +72,4 @@ I build scalable, high-performance web applications with a strong focus on clean
 
 ---
 
-## 📬 Let's Connect
-
-📨 Email: [johnnyjanuary62@gmail.com](mailto:johnnyjanuary62@gmail.com)
-
-💬 Telegram: [@PhantomBushi](https://t.me/PhantomBushi)
-
----
-
 > "Great software is built not only to work today, but to scale for tomorrow."

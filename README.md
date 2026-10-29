@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Benri
-
 ### Full Stack Developer | React • TypeScript • Node.js • Laravel
 
 I build scalable, high-performance web applications with a strong focus on clean architecture, maintainable code, and exceptional user experiences. Passionate about solving complex business problems through modern technologies and engineering best practices.

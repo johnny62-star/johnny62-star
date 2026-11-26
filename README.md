@@ -56,10 +56,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> 
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"> 
   </picture>
-  🏆 Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Adams-404&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="95%" /> <br>
-  
-  Show Image Show Image <br><br> <img src="https://komarev.com/ghpvc/?username=Adams-404&style=for-the-badge&color=00d4aa" alt="Profile Views" />
   
   ✨ "Great software is built not only to work today, but to scale for tomorrow." ✨
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:7209b7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" /> </div>

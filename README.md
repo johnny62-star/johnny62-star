@@ -1,21 +1,9 @@
 <div align="center"> 
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=60&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Laravel;Building+scalable+web+applications;Clean+architecture+%26+maintainable+code;Continuously+learning%2C+always+shipping" alt="Typing SVG" /> 
   </a> 
   
   <br>
-
-  <a href="https://linkedin.com/in/muhammad-adamu-aliyu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://twitter.com/_Adam_Alee">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a> 
-  <a href="https://evergreeners.dev">
-    <img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a> 
-  <a href="https://holopin.io/@adams404">
-    <img src="https://img.shields.io/badge/Holopin-7209b7?style=for-the-badge&logo=holopin&logoColor=white" />
-  </a>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" /> 
 </div> 

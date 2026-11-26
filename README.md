@@ -31,25 +31,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /> <br> 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
 
-  🎯 Current Focus  &  📈 What I Value
-  <table> 
-    <tr> 
-      <td width="50%" align="center"> 
-        <h3>🎯 Current Focus</h3> ▹ Scalable full-stack applications<br> ▹ Advanced TypeScript patterns<br> ▹ System design &amp; architecture<br> ▹ Performance optimization<br> ▹ Cloud &amp; container technologies<br> ▹ Clean code &amp; design patterns 
-      </td> 
-      <td width="50%" align="center"> 
-        <h3>📈 What I Value</h3> ▹ Clean architecture<br> ▹ Scalable systems<br> ▹ Code quality<br> ▹ Performance<br> ▹ Developer experience<br> ▹ Continuous learning 
-      </td> 
-    </tr> 
-  </table> 
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
-  
-  📊 GitHub Stats
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adams-404&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4aa&icon_color=7209b7&bg_color=1a1b27&border_radius=16" /> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adams-404&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4aa&bg_color=1a1b27&border_radius=16" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adams-404&theme=tokyonight&hide_border=true&border_radius=16&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adams-404&bg_color=1a1b27&color=00d4aa&line=7209b7&point=FFFFFF&area=true&area_color=7209b7&hide_border=true&radius=16" width="95%" /> 
   
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> 

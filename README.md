@@ -25,12 +25,11 @@
 
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
+  
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,tailwind,html,css&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /> <br> 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
-
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
   

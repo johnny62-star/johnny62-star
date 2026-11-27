@@ -5,7 +5,7 @@
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" /> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div> 
 
 <!-- About --> 
@@ -24,14 +24,14 @@
 </table> 
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,tailwind,html,css&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /> <br> 
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,100:7209b7&height=3&section=header" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> 
